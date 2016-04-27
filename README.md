@@ -1,11 +1,11 @@
-# Practice-getpocket
-Send file with links with api to getpocket.com
+# Practice-getpocket <br />
+Send file with links with api to getpocket.com <br />
 
-sudo apt-get install python3-pip__
-sudo pip3 install -r requirements.txt__
-./manage.py migrate__
-python3 manage.py runserver__
-__
-If you want sent file to your get pocket you should change CONSUMER_KEY.__ 
-Link to generate you CONSUMER_KEY: https://getpocket.com/developer/apps/new.__
-You can change this key in getpocket->getpocket->settings.py__
+sudo apt-get install python3-pip <br />
+sudo pip3 install -r requirements.txt <br />
+./manage.py migrate <br />
+python3 manage.py runserver <br />
+<br />
+If you want sent file to your get pocket you should change CONSUMER_KEY. <br />
+Link to generate you CONSUMER_KEY: https://getpocket.com/developer/apps/new. <br />
+You can change this key in getpocket->getpocket->settings.py
